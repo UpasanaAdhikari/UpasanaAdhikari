@@ -1,7 +1,7 @@
 # 👋 Hi there!
 
 Welcome to my GitHub profile!  
-Here you'll find projects, resources, and experiments related to AI, ML, and software development.
+Here you'll find projects, resources, and experiments related to AI, ML.
 
 ---
 
